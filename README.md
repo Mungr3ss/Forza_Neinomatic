@@ -37,29 +37,31 @@ super blurry and introduces visual glitches in some game engines, which means yo
 but in games these are unrealistic and overused, devs treat player characters as walking camera lens in many modern games an go overboard
 adding in multiple types of flares in various sizes and configurations. common is sun flares and flares from light sources like street and wall lights in games but also weird flares mixed with lens dirt / dust.
 
+i know for a fact i am not a alone in my displeasure of having to put up with annoying visual effects in video games where modding is not possible, where it is though, it has made for a more pleasurable experience, although the modding experience is usually long, boring and results in many a headache but once complete it can make a not fun to play game actually fun to play. sure if goes against the devs vision for whatever game is it but from a gamers perspective, it's like you are playing for the first time again but better.
+
 supported games:
 
 # XBOX 360: (xenia, now also including recomps, although they aren't perfect yet, but neither is xenia)
-Forza Motorsport 2 
-Forza Motorsport 3 
-Forza Motorsport 4 (two mod packs, one is for xenia that works around broken car shadows)
-Forza Horizon
-Forza Horizon 2 / Fast & Furious
+- Forza Motorsport 2 
+- Forza Motorsport 3 
+- Forza Motorsport 4 (two mod packs, one is for xenia that works around broken car shadows)
+- Forza Horizon
+- Forza Horizon 2 / Fast & Furious
 
 # XBOX One: (now including recomps)
-Forza Horizon 2
-Forza Motorsport 5
+- Forza Horizon 2
+- Forza Motorsport 5
 
 # UWP (PC):
-Forza Motorsport 6 APEX
-Forza Motorsport 7
-Forza Horizon 3 (files with gibberish names but many are readable in text editors)
+- Forza Motorsport 6 APEX
+- Forza Motorsport 7
+- Forza Horizon 3 (files with gibberish names but many are readable in text editors)
 
 # Steam:
-Forza Horizon 4
-Forza Horizon 5
-Forza Horizon 6
-Forza Motorsport (2023)
+- Forza Horizon 4
+- Forza Horizon 5
+- Forza Horizon 6
+- Forza Motorsport (2023)
 
 each game where possible the following changes have been performed:
 
